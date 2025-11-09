@@ -13,4 +13,4 @@ Dashboard interactivo que muestra información sobre admisiones, retención y sa
    ```
 
 ## 🌐Enlace del dashboard en Streamlit Cloud
-(Agrega aquí el enlace cuando lo despliegues)
+ 
