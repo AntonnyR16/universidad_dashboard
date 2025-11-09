@@ -1,8 +1,8 @@
-# 🎓 University Dashboard
+#  University Dashboard
 
 Dashboard interactivo que muestra información sobre admisiones, retención y satisfacción estudiantil.
 
-## 🚀 Cómo ejecutar localmente
+##  Cómo ejecutar localmente
 1. Instalar dependencias:
    ```bash
    pip install -r requirements.txt
@@ -12,5 +12,5 @@ Dashboard interactivo que muestra información sobre admisiones, retención y sa
    streamlit run app.py
    ```
 
-## 🌐 Enlace del dashboard en Streamlit Cloud
+## 🌐Enlace del dashboard en Streamlit Cloud
 (Agrega aquí el enlace cuando lo despliegues)
